@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Document</title>
+</head>
+
+<body>
+     <pre>rgba(<input type="number" value="255" max="255" min="0" step="1" id="r" maxlength="3" minlength="1" />,<input type="number" value="255" max="255" min="0" step="1" id="g" maxlength="3" minlength="1" />,<input type="number" value="255" max="255" min="0" step="1" id="b" maxlength="3" minlength="1" />,<input type="number" value="255" max="255" min="0" step="1" id="a" maxlength="3" minlength="1" />)</pre>
+     <input type="file" name="filefield" multiple="multiple" accept="image/*" id="fileInput" /><br />
+     <img id="imgTMP" />
+     <canvas id="theCanvas"></canvas>
+     <style>
+          input[type=number] {
+               width: 3em
+          }
+
+          #theCanvas {
+               display: none
+          }
+     </style>
+     <script src="remover.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,56 @@
+[
+  {
+    "active": false,
+    "key": 1,
+    "limit": 50,
+    "number": "085559038021"
+  },
+  {
+    "active": true,
+    "key": 2,
+    "limit": 50,
+    "number": "085559038022"
+  },
+  {
+    "active": true,
+    "key": 3,
+    "limit": 50,
+    "number": "085559038023"
+  },
+  {
+    "active": true,
+    "key": 4,
+    "limit": 10,
+    "number": "085559038024"
+  },
+  {
+    "active": true,
+    "key": 5,
+    "limit": 50,
+    "number": "6285559038021@s.whatsapp.net"
+  },
+  {
+    "active": false,
+    "key": 6,
+    "limit": -1,
+    "number": "6285559038051@s.whatsapp.net"
+  },
+  {
+    "active": false,
+    "key": 7,
+    "limit": 0,
+    "number": "0855590380245"
+  },
+  {
+    "active": false,
+    "key": 8,
+    "limit": 0,
+    "number": "085559038025"
+  },
+  {
+    "active": false,
+    "key": 9,
+    "limit": 0,
+    "number": "08555903802452"
+  }
+]

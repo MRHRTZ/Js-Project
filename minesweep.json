@@ -1,0 +1,634 @@
+{
+  "width": 10,
+  "height": 10,
+  "name": "Standart grid",
+  "nbbombs": 10,
+  "lives": 0,
+  "areBombsSet": true,
+  "isEnded": false,
+  "isWon": false,
+  "revealedCells": 6,
+  "flaggedCells": [],
+  "map": [
+    [
+      {
+        "isRevealed": true,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": true,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": true,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 2
+      },
+      {
+        "isRevealed": true,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      }
+    ],
+    [
+      {
+        "isRevealed": true,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": true,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": true,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 2
+      },
+      {
+        "isRevealed": false,
+        "isBomb": true,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      }
+    ],
+    [
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 2
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      }
+    ],
+    [
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": true,
+        "isFlagged": false,
+        "nb": 0
+      }
+    ],
+    [
+      {
+        "isRevealed": false,
+        "isBomb": true,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      }
+    ],
+    [
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 2
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 2
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      }
+    ],
+    [
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": true,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 2
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": true,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      }
+    ],
+    [
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 2
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 2
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 2
+      },
+      {
+        "isRevealed": false,
+        "isBomb": true,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 2
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      }
+    ],
+    [
+      {
+        "isRevealed": false,
+        "isBomb": true,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 2
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 2
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": true,
+        "isFlagged": false,
+        "nb": 0
+      }
+    ],
+    [
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": true,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 0
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      },
+      {
+        "isRevealed": false,
+        "isBomb": false,
+        "isFlagged": false,
+        "nb": 1
+      }
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+    "status": true,
+    "code": 200,
+    "msg": "Successfully",
+    "response": {
+      "title": "Had to make sure every title from Hybrid Theory was accounted for. @mikeshinoda @linkinpark https://t.co/0VVI7...",
+      "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/1317273761536561153/pu/img/Kft9x3troDKd8uO4.jpg",
+      "links": [
+        {
+          "ext": "mp4",
+          "resolution": "720p",
+          "url": "https://video.twimg.com/ext_tw_video/1317273761536561153/pu/vid/720x720/eKCz2KIkibST7V7J.mp4?tag=10",
+          "size": "4.16 MB"
+        },
+        {
+          "ext": "mp4",
+          "resolution": "480p",
+          "url": "https://video.twimg.com/ext_tw_video/1317273761536561153/pu/vid/480x480/2Uwf55m3sfqbSvGA.mp4?tag=10",
+          "size": "2.09 MB"
+        },
+        {
+          "ext": "mp4",
+          "resolution": "320p",
+          "url": "https://video.twimg.com/ext_tw_video/1317273761536561153/pu/vid/320x320/SEjMMy0SHKWCOpA-.mp4?tag=10",
+          "size": "1.14 MB"
+        }
+      ]
+    }
+  }

@@ -1,0 +1,16 @@
+{
+  "turn": "black",
+  "enemy": {
+    "black": {
+      "name": "",
+      "number": ""
+    },
+    "white": {
+      "name": "",
+      "number": ""
+    }
+  },
+  "board": [
+    "1. e3 d6"
+  ]
+}

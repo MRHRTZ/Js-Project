@@ -1,0 +1,2 @@
+{"name":"greetings","responses":["Hi there!"],"actions":[],"_id":"VB67lV0gfNiTOxQR"}
+{"$$indexCreated":{"fieldName":"name","unique":true,"sparse":false}}
